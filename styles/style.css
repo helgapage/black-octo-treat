@@ -278,6 +278,8 @@ li {
 
 .plan-block:hover > .block-hat > * {
 	color: #fff !important;
+	cursor: pointer;
+	transition: all .3s;
 }
 
 
